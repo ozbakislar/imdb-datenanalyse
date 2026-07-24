@@ -1,4 +1,4 @@
-# 📖 **Dil:** [English](README_ENG.md) | [Deutsch](README.md) | **Türkçe**
+# 📖 **Dil:** [English](README_EN.md) | [Deutsch](README.md) | **Türkçe**
 
 # 📊 IMDb'nin En İyi 1000 Filmi – Keşifsel Veri Analizi
 
