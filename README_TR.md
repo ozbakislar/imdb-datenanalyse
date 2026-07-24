@@ -1,6 +1,6 @@
 # 📖 **Dil:** [English](README_EN.md) | [Deutsch](README.md) | **Türkçe**
 
-# 📊 IMDb'nin En İyi 1000 Filmi – Keşifsel Veri Analizi
+# 📊 IMDb Filmleri – Keşifsel Veri Analizi
 
 IMDb'de 2006 ile 2016 yılları arasındaki 1.000 en popüler filmin Keşifsel Veri Analizi (EDA)
 

@@ -1,6 +1,6 @@
 # 📖 **Language:** **English** | [Deutsch](README.md) | [Türkçe](README_TR.md)
 
-# 📊 Top 1000 IMDb Movies – Exploratory Data Analysis
+# 📊 IMDb Movies – Exploratory Data Analysis
 
 Exploratory Data Analysis (EDA) of the 1,000 most popular movies on IMDb between 2006 and 2016
 

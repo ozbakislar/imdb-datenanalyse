@@ -1,6 +1,6 @@
 # 📖 **Sprachen:** [English](README_EN.md) | **Deutsch** | [Türkçe](README_TR.md)
 
-# 📊 Top 1000 IMDb Filme – Explorative Datenanalyse
+# 📊 IMDb Filme – Explorative Datenanalyse
 
 Explorative Datenanalyse (EDA) der 1.000 beliebtesten Filme auf IMDb zwischen 2006 und 2016
 
